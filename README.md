@@ -1,4 +1,4 @@
-# 👋 **Hello! I'm Md Arfan Alom Akib, a passionate developer, designer, and tech enthusiast.**  
+# 👋 **Hello! I'm Md Arfan Alom Akib, a passionate web developer, web designer, and tech enthusiast.**  
 💡 Exploring the endless possibilities of **coding, game design, and modern tech solutions.**  
 
 ---
