@@ -1,8 +1,4 @@
-# 🌟 Welcome to [Md Arfan Alom Akib's GitHub](https://github.com/mdarfanalomakib)  
-
-![Banner](https://img.shields.io/badge/-🚀-0D1117?style=for-the-badge)
-
-👋 **Hello! I'm Md Arfan Alom Akib, a passionate developer, designer, and tech enthusiast.**  
+# 👋 **Hello! I'm Md Arfan Alom Akib, a passionate developer, designer, and tech enthusiast.**  
 💡 Exploring the endless possibilities of **coding, game design, and modern tech solutions.**  
 
 ---
@@ -16,12 +12,10 @@
 
 ## 🛠️ Skills & Tech Stack  
 
-- **Languages:** HTML, CSS, JavaScript, Python, C#, C++, PHP  
-- **Frameworks:** React, Tailwind CSS, Bootstrap  
-- **Game Development:** Unity, Phaser  
-- **Database:** MySQL, Firebase  
-- **Design Tools:** Figma, Photoshop  
-- **Version Control:** Git & GitHub  
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frameworks:** React, Tailwind CSS, Bootstrap 
+- **Game Development:** Python  
+- **Design Tools:** Canva, Adobe Photoshop  
 - **Other Interests:** Artificial Intelligence, Drone Tech, and IoT  
 
 ---
